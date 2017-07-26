@@ -1,5 +1,13 @@
+html {
+  background-image: url(images/kuala-lumpur.jpg)
+}
+
+body {
+  background-color: rgba(0, 0, 0, 0);
+}
+
 newspaper-heading h1{
-  background-color: black;
+  background-color: rgba(0, 0, 0, 0);
   color: #fff;
   text-align: center;
   padding: 20px;
